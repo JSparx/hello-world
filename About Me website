@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>About ME</title>
+  </head>
+<body> 
+  <h1>About ME! Joshua Sparks</h1>
+<nav> 
+  <ul>
+    <li><a href="#work experience">Work Experience</a></li>
+    <li><a href="#interests">Interests</a></li>
+  </ul> 
+</nav> 
+<div id="work experience">
+  <h2>Work Experience</h2>
+    <p>My career thus far with Liberty Mutual Insurance has provided opportunities for growth while continuing to challenge and reward.  I began my career as a Customer Service Representative in the Personal Sales arena and I have also gained experience as a Workers Compensation Claims adjuster on the UPS and Home Depot dedicated teams. At this stage in my career, I am looking to expand my technical skill set and leverage my experience in the organization to help implement new technology and ideas to improve business results and a positive customer experience.</p> 
+    <p>I am currently a Business Systems Analyst II on the WC Business Support team.  I am the lead analyst on several projects and have experience working in a support role via Help Desk tickets. In my current role my efforts have directly resulted in a significant reduction of unnecessary escalations to the IT staff which frees up time for IT resources to focus on development work. I have also led Business training sessions for the IT staff to provide information and explain how the systems they build are used on the front end.  I have experience gathering and writing requirements, project plans and assisting with design considerations from working on various projects.  I am very interested in technology and recognize the vital role it plays within our organization.  The business systems analyst position is attractive to me because I will be engaged in meaningful work that directly impacts employees. It will also provide experience to become a valued and well-rounded employee of Liberty Mutual.</p> 
+  </div> 
+<div id="interests">
+<h2>Interests</h2>
+  <p> I am very interested in learning how to code. I have been involved with nearly every other aspect of software development from requirements gathering to UA testing and project management. I also enjoy spending time with my family, hiking, fishing and video games.</p> 
+  </div> 
+<img src="https://cdn.pixabay.com/photo/2014/12/21/07/49/fireworks-574739_960_720.jpg" />  
+</html>
